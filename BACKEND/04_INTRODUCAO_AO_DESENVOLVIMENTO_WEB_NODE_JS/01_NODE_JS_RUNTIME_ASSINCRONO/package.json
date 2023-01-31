@@ -1,0 +1,15 @@
+{
+  "name": "01_node_js_runtime_assincrono",
+  "version": "1.0.0",
+  "description": "calulando bmi",
+  "main": "bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bmi.js"
+  },
+  "author": "renato rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
